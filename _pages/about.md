@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-PhD student at the School of Computer Science, Nanjing University (NJU), under the guidance of Professor Qingkai Shi. I pursued my Bachelor and Master degree in Computer Science at Chinese University of Hong Kong, Shen Zhen.
+Ph.D. student in the School of Computer Science, Nanjing University (NJU), supervised by Professor Qingkai Shi. I obtained my Bachelor's and Master's degrees in Computer Science from the Chinese University of Hong Kong, Shenzhen.
 
-I am interested in applications of abstraction/approximation methods in software engineering related to static program analysis, program optimization, and testing.
+My research interests focus on the application of abstraction and approximation techniques in static program analysis, program optimization, and software testing.
