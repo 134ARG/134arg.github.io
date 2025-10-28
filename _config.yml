@@ -24,11 +24,11 @@ author:
   avatar           : "avatar-shrink.jpg"
   name             : "Ruiyu Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "MPhil student of Computer Science"
-  location         : "Shen Zhen, China"
-  employer         : "CUHKSZ"
+  bio              : "PhD student of Computer Science"
+  location         : "Nan Jing, China"
+  employer         : "NJU"
   uri              : "https://134arg.github.io"# URL
-  email            : "ruiyuzhou@link.cuhk.edu.cn" 
+  email            : "ruiyuzhou@smail.nju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
